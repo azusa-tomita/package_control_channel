@@ -63,6 +63,16 @@
 			]
 		},
 		{
+			"name": "GearboxSencha",
+			"details": "https://github.com/2Gears/gearbox-sublime-sencha",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/2Gears/gearbox-sublime-sencha/tags"
+				}
+			]
+		},
+		{
 			"name": "Gem Browser",
 			"details": "https://github.com/NaN1488/sublime-gem-browser/tree/stable",
 			"releases": [
@@ -418,6 +428,17 @@
 			]
 		},
 		{
+			"name": "Gnuplot",
+			"details": "https://github.com/hesstobi/sublime_gnuplot",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/hesstobi/sublime_gnuplot/tags"
+				}
+			]
+		},
+		{
 			"name": "Go Build",
 			"details": "https://github.com/cthackers/SublimeGoBuild",
 			"releases": [
@@ -618,6 +639,16 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/joshhartigan/googley/tree/master"
+				}
+			]
+		},
+		{
+			"name": "GoOracle",
+			"details": "https://github.com/waigani/GoOracle",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/waigani/GoOracle/tags"
 				}
 			]
 		},

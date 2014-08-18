@@ -191,6 +191,17 @@
 			]
 		},
 		{
+			"name": "Unity Completions Light",
+			"details": "https://github.com/oferei/sublime-unity-completions-light",
+			"labels": ["auto-complete"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/oferei/sublime-unity-completions-light/tags"
+				}
+			]
+		},
+		{
 			"details": "https://github.com/UnicornForest/Unity3D",
 			"releases": [
 				{
@@ -217,6 +228,17 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/dentedpixel/Unity3d-LeanTween-Snippets/tree/master"
+				}
+			]
+		},
+		{
+			"name": "Unity3D Reference Search",
+			"details": "https://github.com/talitore/Unity3DReference",
+			"labels": ["search"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/talitore/Unity3DReference/tags"
 				}
 			]
 		},

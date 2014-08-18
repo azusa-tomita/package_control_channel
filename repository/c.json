@@ -532,6 +532,16 @@
 			]
 		},
 		{
+			"name": "CiteBibtex",
+			"details": "https://github.com/sjpfenninger/citebibtex",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"details": "https://github.com/sjpfenninger/citebibtex/tags"
+				}
+			]
+		},
+		{
 			"name": "Citer",
 			"details": "https://github.com/mangecoeur/Citer",
 			"labels": ["citation academic markdown"],
@@ -683,6 +693,16 @@
 				{
 					"sublime_text": "<3000",
 					"details": "https://github.com/avinash8526/CloseAllButThis-Sublime-PLugin/tree/master"
+				}
+			]
+		},
+		{
+			"name": "CloseCommentTag",
+			"details": "https://github.com/Satoh-D/CloseCommentTag",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/Satoh-D/CloseCommentTag/tags"
 				}
 			]
 		},
@@ -1548,6 +1568,16 @@
 			"previous_names": ["copy-file-name"]
 		},
 		{
+			"name": "Copy Filepath With Line Numbers",
+			"details": "https://github.com/theskyliner/CopyFilepathWithLineNumbers",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/theskyliner/CopyFilepathWithLineNumbers/tags"
+				}
+			]
+		},
+		{
 			"name": "Copy PHP Namespace",
 			"details": "https://github.com/FrenkyNet/CopyNamespace",
 			"releases": [
@@ -1652,6 +1682,16 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/Cotonti/sublime-cotonti/tree/master"
+				}
+			]
+		},
+		{
+			"name": "Cowsay",
+			"details": "https://github.com/adamchainz/SublimeCowsay",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/adamchainz/SublimeCowsay/tags"
 				}
 			]
 		},

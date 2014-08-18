@@ -194,6 +194,17 @@
 			]
 		},
 		{
+			"name": "Fenom",
+			"details": "https://github.com/pafnuty/sublime-fenom",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/pafnuty/sublime-fenom/tree/master"
+				}
+			]
+		},
+		{
 			"details": "https://github.com/nerdo/fido",
 			"releases": [
 				{
@@ -483,6 +494,18 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/MarkMichos/firecode-color-scheme"
+				}
+			]
+		},
+		{
+			"name": "Firelime",
+			"author": "Miroslav Gavrilov",
+			"labels": ["firebase", "utils"],
+			"details": "https://github.com/gavrilovmiroslav/Firelime",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/gavrilovmiroslav/Firelime/tags"
 				}
 			]
 		},
@@ -831,13 +854,24 @@
 			]
 		},
 		{
+			"name": "Future Funk - Codeception",
+			"details": "https://github.com/brandonferens/FutureFunk-CodeCeption",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/brandonferens/FutureFunk-CodeCeption/tags"
+				}
+			]
+		},
+		{
 			"name": "Future Funk - Color Scheme",
 			"details": "https://github.com/Twiebie/ST-FutureFunk",
 			"labels": ["color scheme"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/Twiebie/ST-FutureFunk/tree/master"
+					"details": "https://github.com/Twiebie/ST-FutureFunk/tags"
 				}
 			]
 		},

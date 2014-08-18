@@ -723,7 +723,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/Twiebie/ST-Spacefunk/tree/master"
+					"details": "https://github.com/Twiebie/ST-Spacefunk/tags"
 				}
 			],
 			"previous_names": [
@@ -1397,6 +1397,17 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/jpatzer/Tritium.tmbundle/tree/master"
+				}
+			]
+		},
+		{
+			"name": "Tryton Snippets",
+			"details": "https://bitbucket.org/angelnan/sublimetext-tryton-snippets",
+			"labels": ["tryton", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://bitbucket.org/angelnan/sublimetext-tryton-snippets/src/default"
 				}
 			]
 		},

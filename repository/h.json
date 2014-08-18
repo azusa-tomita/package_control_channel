@@ -22,6 +22,16 @@
 			]
 		},
 		{
+			"name": "HackerTyper",
+			"details": "https://github.com/rexxars/sublime-hacker-typer",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"details": "https://github.com/rexxars/sublime-hacker-typer/tags"
+				}
+			]
+		},
+		{
 			"name": "Haml",
 			"details": "https://github.com/phuibonhoa/handcrafted-haml-textmate-bundle",
 			"releases": [
@@ -654,6 +664,17 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/rareyman/HTMLBeautify/tree/master"
+				}
+			]
+		},
+		{
+			"name": "HTMLEntity Snippets",
+			"details": "https://github.com/cjaoude/HTMLEntity-Snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/cjaoude/HTMLEntity-Snippets/tags"
 				}
 			]
 		},
