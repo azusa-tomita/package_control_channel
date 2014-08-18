@@ -522,6 +522,16 @@
 			]
 		},
 		{
+			"name": "Select CSS Rule Set",
+			"details": "https://github.com/azusa-tomita/SelectCSSRuleSet",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/azusa-tomita/SelectCSSRuleSet/tags"
+				}
+			]
+		},
+		{
 			"name": "Select Quoted",
 			"details": "https://github.com/int3h/SublimeSelectQuoted",
 			"releases": [
